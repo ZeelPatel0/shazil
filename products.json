@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Vanilla Bliss",
+    "category": "Classic",
+    "price": 32.99,
+    "image": "https://images.unsplash.com/photo-1603006905393-c279c4693d38?q=80&w=800&auto=format&fit=crop",
+    "description": "Our signature vanilla candle offers a warm, comforting scent that transforms any space into a cozy sanctuary. Made with premium soy wax and infused with pure vanilla essential oils for a rich, authentic fragrance.",
+    "burnTime": 50,
+    "fragrance": "Pure Vanilla, Warm Amber, Subtle Caramel",
+    "ingredients": "Premium Soy Wax, Cotton Wick, Pure Essential Oils"
+  },
+  {
+    "id": 2,
+    "name": "Midnight Lavender",
+    "category": "Classic",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1602178141046-bb4ce3748fc6?q=80&w=800&auto=format&fit=crop",
+    "description": "Unwind with the calming scent of lavender fields at dusk. This elegant candle combines French lavender with subtle notes of bergamot and cedarwood for a soothing experience that promotes relaxation and tranquility.",
+    "burnTime": 55,
+    "fragrance": "French Lavender, Bergamot, Cedarwood",
+    "ingredients": "Premium Soy Wax, Cotton Wick, Pure Essential Oils"
+  },
+  {
+    "id": 3,
+    "name": "Citrus Grove",
+    "category": "Classic",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1596433809252-305a8951a764?q=80&w=800&auto=format&fit=crop",
+    "description": "Brighten your space with the refreshing scent of sun-ripened citrus. This invigorating blend of orange, lemon, and grapefruit creates an uplifting atmosphere that energizes and refreshes.",
+    "burnTime": 45,
+    "fragrance": "Orange, Lemon, Grapefruit, Bergamot",
+    "ingredients": "Premium Soy Wax, Cotton Wick, Pure Essential Oils"
+  },
+  {
+    "id": 4,
+    "name": "Amber & Oud",
+    "category": "Modern",
+    "price": 42.99,
+    "image": "https://images.unsplash.com/photo-1599751449128-eb7249c3d6b1?q=80&w=800&auto=format&fit=crop",
+    "description": "A sophisticated blend of rich amber and exotic oud wood creates a luxurious, warm atmosphere. Complemented by subtle notes of sandalwood and musk for a contemporary scent that's both mysterious and inviting.",
+    "burnTime": 60,
+    "fragrance": "Amber, Oud Wood, Sandalwood, Musk",
+    "ingredients": "Premium Soy Wax, Cotton Wick, Pure Essential Oils, Natural Fragrance"
+  },
+  {
+    "id": 5,
+    "name": "Urban Concrete",
+    "category": "Modern",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1572726729207-a78d6feb18d7?q=80&w=800&auto=format&fit=crop",
+    "description": "Inspired by the energy of city life, this unique candle combines mineral notes with hints of vetiver and violet leaf. The sleek concrete vessel adds an industrial chic touch to any modern interior.",
+    "burnTime": 65,
+    "fragrance": "Mineral Notes, Vetiver, Violet Leaf, Light Musk",
+    "ingredients": "Premium Soy Wax, Cotton Wick, Pure Essential Oils, Concrete Vessel"
+  },
+  {
+    "id": 6,
+    "name": "Black Fig & Vetiver",
+    "category": "Modern",
+    "price": 44.99,
+    "image": "https://images.unsplash.com/photo-1603006905393-c279c4693d38?q=80&w=800&auto=format&fit=crop",
+    "description": "A contemporary blend of ripe black fig and earthy vetiver creates a sophisticated and complex fragrance. Notes of dark berries and warm spices add depth to this modern scent experience.",
+    "burnTime": 55,
+    "fragrance": "Black Fig, Vetiver, Dark Berries, Warm Spices",
+    "ingredients": "Premium Soy Wax, Cotton Wick, Pure Essential Oils, Natural Fragrance"
+  },
+  {
+    "id": 7,
+    "name": "Artisan Cedarwood",
+    "category": "Artisanal",
+    "price": 48.99,
+    "image": "https://images.unsplash.com/photo-1607602274619-9e5d054ebcf0?q=80&w=800&auto=format&fit=crop",
+    "description": "Hand-poured in small batches, this artisanal candle features the rich, woody scent of aged cedarwood. Each unique vessel is hand-thrown by local potters, making every candle a one-of-a-kind piece of functional art.",
+    "burnTime": 70,
+    "fragrance": "Aged Cedarwood, Pine Needle, Light Smoke",
+    "ingredients": "Premium Soy Wax, Cotton Wick, Pure Essential Oils, Handcrafted Ceramic Vessel"
+  },
+  {
+    "id": 8,
+    "name": "Wildflower Meadow",
+    "category": "Artisanal",
+    "price": 52.99,
+    "image": "https://images.unsplash.com/photo-1596433809252-305a8951a764?q=80&w=800&auto=format&fit=crop",
+    "description": "Capturing the essence of a summer meadow in full bloom, this artisanal candle is infused with a blend of wildflowers and herbs. Each candle is topped with dried flowers, creating a beautiful display even when not lit.",
+    "burnTime": 65,
+    "fragrance": "Wildflowers, Herbs, Honey, Fresh Grass",
+    "ingredients": "Premium Soy Wax, Cotton Wick, Pure Essential Oils, Dried Flowers"
+  },
+  {
+    "id": 9,
+    "name": "Bourbon & Oak",
+    "category": "Artisanal",
+    "price": 54.99,
+    "image": "https://images.unsplash.com/photo-1599751449128-eb7249c3d6b1?q=80&w=800&auto=format&fit=crop",
+    "description": "Aged bourbon and charred oak combine in this sophisticated artisanal candle. Hand-poured into reclaimed whiskey glasses, each candle carries subtle notes of vanilla and caramel for a truly unique sensory experience.",
+    "burnTime": 75,
+    "fragrance": "Aged Bourbon, Charred Oak, Vanilla, Caramel",
+    "ingredients": "Premium Soy Wax, Cotton Wick, Pure Essential Oils, Reclaimed Whiskey Glass"
+  }
+]
